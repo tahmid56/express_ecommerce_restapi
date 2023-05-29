@@ -1,0 +1,1 @@
+This is educational purpose ecommerce api was written using expressjs.
